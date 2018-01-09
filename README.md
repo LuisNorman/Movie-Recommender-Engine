@@ -15,7 +15,7 @@ There are many methods to find the similarity between two data points. A popular
 Euclidean distance is great but it isn’t always the most accurate. This is because a movie can be rated an 8 by one critic and 10 by another critic and they’re both considered great to both. When the value can be the different but represent the same thought – Pearson distance is great to use. 
 
 # Method 2: Pearson distance
-A more efficient method to find the similarities is Pearson distance. Pearson distance removes the problem of using Euclidean distance by changing the axes to critics instead of movies as seen below.
+A more efficient method to find the similarities is Pearson distance. Pearson distance removes the problem of using Euclidean distance by changing the axes to critics instead of movies.
 
 The equation used in the code can be seen below.
 
